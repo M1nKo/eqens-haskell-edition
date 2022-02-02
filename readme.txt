@@ -25,7 +25,8 @@ VSCode deberás llamar a la función main una vez interpretado.
 
 Si quieres probarlo pero no puedes/quieres compilarlo, el zip
 llamado "eqens - compilado.zip" contiene el proyecto compilado,
-para jugar simplemente tienes que ejecutar el archivo "Main.exe".
+para jugar simplemente tienes que descomprimir todos los archivos
+en una carpeta y ejecutar el archivo "Main.exe".
 
 
 
@@ -58,4 +59,5 @@ VSCode you should call the main function once interpreted.
 
 If you want to try it but can't/want to compile it, the zip
 called "eqens - compiled.zip" contains the compiled project,
-to play you simply have to run the file "Main.exe".
+to play you simply have to unzip all the files in a folder
+and run the file "Main.exe".
