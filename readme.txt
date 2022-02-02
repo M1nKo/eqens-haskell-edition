@@ -22,3 +22,7 @@ Se generará un Main.exe que podemos ejecutar.
 
 Si en vez de compilarlo quieres interpretarlo en ghci desde
 VSCode deberás llamar a la función main una vez interpretado.
+
+Si quieres probarlo pero no puedes/quieres compilarlo, el zip
+llamado "eqens - commpilado.zip" contiene el proyecto compilado,
+para jugar simplemente tienes que ejecutar el archivo "Main.exe".
