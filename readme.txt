@@ -1,6 +1,6 @@
-------------------------------------------------------
+----------------------------------------------------------------
  - EQENS - Una aventura conversacional en Haskell -
-------------------------------------------------------
+----------------------------------------------------------------
 
 EQENS es una aventura en forma de texto escrita en Haskell,
 para avanzar de unos menús a otros simplemente debes escribir
@@ -9,9 +9,9 @@ el número de opción que deseas y darle a enter.
 Cuando el juego no te dé opciones que elegir no debes escribir
 nada, simplemente espera (hay un pequeño delay entre menús).
 
-------------------------------------------------------
+----------------------------------------------------------------
  - ¿Cómo compilar?
-------------------------------------------------------
+----------------------------------------------------------------
 
 Desde la terminal/cmd debemos acceder al directorio
 del juego y escribir el siguiente comando:
